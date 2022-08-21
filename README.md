@@ -20,3 +20,10 @@ export default Home = () => {
 };
 ```
 
+### To add in your project, add this in terminal
+
+```
+npm i use-react-typing
+
+```
+
