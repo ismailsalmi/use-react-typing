@@ -2,7 +2,7 @@
 
 Built to be used with `create-react-app`, `nextjs`, `gatsby`, or `react-static`.
 
-[See it in demo](https://ismailsalmi.net/hooks/useTyping)
+[See it in demo](https://use-react-typing-demo.vercel.app/)
 
 ### import and how to use
 
@@ -24,6 +24,5 @@ export default Home = () => {
 
 ```
 npm i use-react-typing
-
 ```
 
