@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 export declare interface ParamsType {
     delay?: number;
     late?: number;
-    locale?: "ar" | "en" | "es";
+    locale?: "ar" | "en";
 };
 
 export declare type TextType = string | string[];
